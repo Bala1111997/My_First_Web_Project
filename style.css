@@ -13,4 +13,9 @@ p {
     color: pink;
 }
 
+body {
+    background-image: url('./ImageFile/messi.jpg');
+    background-repeat: no-repeat;
+}
+
 
